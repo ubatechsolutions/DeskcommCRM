@@ -7,7 +7,7 @@ import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import {
   ArrowsClockwise,
-  ArrowsCounterclockwise,
+  ArrowsCounterClockwise,
   MagnifyingGlassPlus,
   MagnifyingGlassMinus,
   DownloadSimple,
@@ -180,7 +180,7 @@ export function ImageLightboxModal({ open, onOpenChange, src, alt }: ImageLightb
               title={t("Girar 90° à esquerda (L)")}
               aria-label={t("Girar 90° à esquerda")}
             >
-              <ArrowsCounterclockwise size={20} />
+              <ArrowsCounterClockwise size={20} />
             </Button>
 
             {/* Rotate Right */}

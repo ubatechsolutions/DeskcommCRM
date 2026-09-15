@@ -143,7 +143,7 @@ export {
   MapPin,
   ArrowsOutSimple,
   // image lightbox / zoom & rotate
-  ArrowsCounterclockwise,
+  ArrowsCounterClockwise,
   MagnifyingGlassPlus,
   MagnifyingGlassMinus,
 } from "@phosphor-icons/react/dist/ssr";
