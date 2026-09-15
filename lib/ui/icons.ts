@@ -142,4 +142,8 @@ export {
   GoogleLogo,
   MapPin,
   ArrowsOutSimple,
+  // image lightbox / zoom & rotate
+  ArrowsCounterclockwise,
+  MagnifyingGlassPlus,
+  MagnifyingGlassMinus,
 } from "@phosphor-icons/react/dist/ssr";
